@@ -1,4 +1,3 @@
-![MasterHead](https://technocometsolutions.com/wp-content/uploads/2020/02/about-us-gif.gif)
 <h1 align="center">Hi 👋, I'm Shyamal Das</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400">
