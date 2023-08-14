@@ -1,6 +1,10 @@
+<h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=25&lines=Hello+There👋!!..">
+  </a>
+</h1>
 <h1 align="center">Hi 👋, I'm Shyamal Das</h1>
-<h3 align="center">A Passionate Frontend Developer From India</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400">
+<h3 align="center">A Passionate Frontend Developer 💻 From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyamaldas-122&label=Profile%20views&color=0e75b6&style=flat" alt="shyamaldas-122" /> </p>
 
