@@ -10,15 +10,84 @@
 
 <p align="left"> <a href="https://twitter.com/shyamal64118629" target="blank"><img src="https://img.shields.io/twitter/follow/shyamal64118629?logo=twitter&style=for-the-badge" alt="shyamal64118629" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce Website**
+- 🔭 I’m currently working on **Netflix Clone**
 
-- 🌱 I’m currently learning **React Js, MongoDB**
+- 🌱 I’m currently learning **React Js, Redux Toolkit**
 
-- 💬 Ask me about **Html,Css,JavaScript**
+- 💬 Ask me about **Html, Css, JavaScript, React, C++, Java**
 
 - 📫 How to reach me **amitdas1228@gmail.com**
 
 - ⚡ Fun fact **I am funny**
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const shyamal = {
+    pronouns: "He" | "Him",
+    code: ["React", "Javascript", "C++", "Java"],
+    askMeAbout: ["web dev", "tech", "photography"],
+    education: {
+        masters: {
+            college: "New Horizon College of Engineering",
+            degree: "Masters of Computer Application(MCA)",
+            cgpa: 8.54,
+            graduation_year: 2023
+        },
+        bachelors: {
+            college: "The University of Burdwan",
+            degree: "Bachelor of Computer Application(BCA)",
+            cgpa: 7.66,
+            graduation_year: 2020
+        }
+    },
+    internship: {
+        company: "Allstate India",
+        role: "Software Developer",
+        duration" "6 months"
+    },
+    projects: {
+       project1: {
+            title: "Online Bike Rental System",
+            technologies: ["Html", "Css", "JavaScript", "Bootstrap"],
+            link: "https://github.com/shyamaldas-122/Bike_Rental"
+        },
+        project2: {
+            title: "Ecommerce Website",
+            technologies: ["Html", "Css", "JavaScript", "Bootstrap"],
+            link: "https://shyamaldas-122.github.io/AVON-Ecommerce-Site/"
+        },
+        project3: {
+            title: "To-Do List App",
+            technologies: ["Html", "Tailwind CSS", "JavaScript", "React Js", "Material-UI"],
+            link: "https://github.com/shyamaldas-122/To-Do-List-React"
+        }
+    },
+    technologies: {
+        backEnd: {
+            js: ["Node Js", "Express Js"]
+        },
+        frontEnd: {
+            web: ["Html", "Tailwind CSS", "Css", "JavaScript"],
+            frameWork: ["React", "Bootstrap"]
+        },
+        Tools: ["Jenkins", "SonarQube", "Datadog", "LivePeron", "Github", "Postman"],
+        databases: ["Mongo DB", "MySql"],
+        misc: ["Rest API", "AWS", "Git"]
+    },
+    problem_solving: {
+        type: "coding",
+        total_solved: 1300,
+        platforms: ["Codechef", "Codeforces", "Leetcode", "Geeksforgeeks", "Hackerrank"]
+    },
+    currentFocus: "Get a job",
+    funFact: "The best thing about a boolean is even if you're wrong, you're only off by a bit"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
