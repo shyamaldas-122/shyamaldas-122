@@ -27,41 +27,10 @@ const shyamal = {
     pronouns: "He" | "Him",
     code: ["React", "Javascript", "C++", "Java"],
     askMeAbout: ["web dev", "tech", "photography"],
-    education: {
-        masters: {
-            college: "New Horizon College of Engineering",
-            degree: "Masters of Computer Application(MCA)",
-            cgpa: 8.54,
-            graduation_year: 2023
-        },
-        bachelors: {
-            college: "The University of Burdwan",
-            degree: "Bachelor of Computer Application(BCA)",
-            cgpa: 7.66,
-            graduation_year: 2020
-        }
-    },
     internship: {
         company: "Allstate India",
         role: "Software Developer",
-        duration" "6 months"
-    },
-    projects: {
-       project1: {
-            title: "Online Bike Rental System",
-            technologies: ["Html", "Css", "JavaScript", "Bootstrap"],
-            link: "https://github.com/shyamaldas-122/Bike_Rental"
-        },
-        project2: {
-            title: "Ecommerce Website",
-            technologies: ["Html", "Css", "JavaScript", "Bootstrap"],
-            link: "https://shyamaldas-122.github.io/AVON-Ecommerce-Site/"
-        },
-        project3: {
-            title: "To-Do List App",
-            technologies: ["Html", "Tailwind CSS", "JavaScript", "React Js", "Material-UI"],
-            link: "https://github.com/shyamaldas-122/To-Do-List-React"
-        }
+        duration: "6 months"
     },
     technologies: {
         backEnd: {
@@ -80,7 +49,7 @@ const shyamal = {
         total_solved: 1300,
         platforms: ["Codechef", "Codeforces", "Leetcode", "Geeksforgeeks", "Hackerrank"]
     },
-    currentFocus: "Get a job",
+    currentFocus: "Get a job soon",
     funFact: "The best thing about a boolean is even if you're wrong, you're only off by a bit"
 };
 ```
